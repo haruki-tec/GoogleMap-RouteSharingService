@@ -1,2 +1,2 @@
 # GoogleMap-RouteSharingService
- for delivery industry. It uses Django REST framework and Google Map and React.js.
+運送業の主に新幹線ハンドキャリーを行っている者に対して、googlemap apiから取得した乗車詳細などの情報を、LINE等に簡素に送信することができるサービスです。
